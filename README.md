@@ -27,6 +27,8 @@ If you have completed making all of your changes and have tested them, please up
 
 ## The Challenge
 
+#### Before you get started, [click here to generate a new repository from this template](https://github.com/takethree/interview-challenge/generate) - please do not use forks.
+
 ### Feature #1: Keyboard Functionality
 
 Right now, the calculator requires the user to press the buttons in the user interface in order to perform mathematical operations.
