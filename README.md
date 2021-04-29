@@ -1,6 +1,6 @@
-# Technical Interview Challenge
+# Technical Interview Assessment
 
-Thank you for participating in the technical interview challenge! This challenge is designed to test your skill set for feature design and bug fixes in the following areas:
+Thank you for participating in the technical interview assessment! This assessment is designed to test your skill set for feature design and bug fixes in the following areas:
 
 * Code quality
 * User interface design
@@ -9,7 +9,7 @@ Thank you for participating in the technical interview challenge! This challenge
 
 ## The Project
 
-Your challenge involves a fairly simple application: A calculator. This calculator performs all of its operations server side and returns the results through an API layer within the application.
+Your assessment involves a fairly simple application: A calculator. This calculator performs all of its operations server side and returns the results through an API layer within the application.
 
 ### Requirements to Run:
 Visual Studio 2019 (Community)
@@ -19,15 +19,15 @@ Your commit messages are your own and should be written in a way that you think 
 
 ### Time Expectations
 
-This is designed to be a quick project that should take no longer than an afternoon, at most. Please try to return your results within two business days of receiving this challenge. If you need to take longer, please contact your interviewer and let them know.
+This is designed to be a quick project that should take no longer than an afternoon, at most. Please try to return your results within two business days of receiving this assessment. If you need to take longer, please contact your interviewer and let them know.
 
 ### Upon Completion of Project
 
 If you have completed making all of your changes and have tested them, please upload your final branch of code into a GitLab repository under your account, and then email your interviewer a link to the repository.
 
-## The Challenge
+## The Assessment
 
-#### Before you get started, [click here to generate a new repository from this template](https://github.com/takethree/interview-challenge/generate) - please do not use forks.
+#### Before you get started, [click here to generate a new repository from this template](https://github.com/takethree/interview-assessment/generate) - please do not use forks.
 
 ### Feature #1: Keyboard Functionality
 
