@@ -27,7 +27,7 @@ If you have completed making all of your changes and have tested them, please up
 
 ## The Assessment
 
-#### Before you get started, [click here to generate a new repository from this template](https://github.com/takethree/interview-assessment/generate) - please do not use forks.
+#### Before you get started, [click here to generate a new repository from this template](https://github.com/takethree/interview-assessment/generate). This will create a repository in your account with your own copy of the code.
 
 ### Feature #1: Keyboard Functionality
 
