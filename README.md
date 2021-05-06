@@ -12,14 +12,15 @@ Thank you for participating in the technical interview assessment! This assessme
 Your assessment involves a fairly simple application: A calculator. This calculator performs all of its operations server side and returns the results through an API layer within the application.
 
 ### Requirements to Run:
-Visual Studio 2019 (Community)
+* Visual Studio 2019 (Community)
+* SQLite Database Browser (one option: [https://sqlitebrowser.org](https://sqlitebrowser.org/))
 
 ### Commit Message Requirements
 Your commit messages are your own and should be written in a way that you think is appropriate, but please include a reference to the feature, bug, or extra credit that is related to your commit message.
 
 ### Time Expectations
 
-This is designed to be a quick project that should take no longer than an afternoon, at most. Please try to return your results within two business days of receiving this assessment. If you need to take longer, please contact your interviewer and let them know.
+This is designed to be a quick project that should take no longer than an afternoon, at most. Please try to return your results within four business days of receiving this assessment. If you need to take longer, please contact your interviewer and let them know.
 
 ### Upon Completion of Project
 
